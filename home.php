@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>TXC团队主页</title>
+	<!--定义标题-->
+	<LINK REL="SHORTCUT ICON" HREF="https://xiaochai.txc233.cn/png/LOGO2.ico">
+	<!--定义图标-->
+	<link rel="stylesheet" type="text/css" href="css/into.css" />
+	<!--定义css-->
+	<script type="text/javascript" src="js/home.js"></script>
+	<!--定义js-->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--控制页面尺寸和缩放比例-->
+	<meta name="baidu-site-verification" content="code-63Sev9upYt" />
+	<!--BD收录-->
+	<script src="https://eqcn.ajz.miesnfu.com/wp-content/plugins/wp-3d-pony/live2dw/lib/L2Dwidget.min.js"></script>
+	<script type="text/javascript" src="js/cat.js"></script>
+	<!--看板猫-->
+</head>
+
+<body>
+
+	<div class="header">
+		<h1>TXC 团队主页<smaller>-夏日配色限定</smaller><br></h1>
+		<p id="hitokoto"><a class='yy'href="#" id="hitokoto_text"></a></p>
+		<p id="title" class='yy'></p>
+		<script type="text/javascript" src="js/as.js"></script>
+	</div>
+	<div class="row">
+		<div class="col-3 col-s-3 menu">
+			<ul>
+				<a href="/home" style="text-decoration:none"><li>▶介绍</li></a>
+				<a href="/things" style="text-decoration:none"><li>作品</li></a>
+				<a href="/about" style="text-decoration:none"><li>人设</li></a>
+				<a href="/pic" style="text-decoration:none"><li>画廊</li></a>
+				<a href="/blog" style="text-decoration:none"><li>新闻</li></a>
+				<a href="/oldhome" style="text-decoration:none"><li>黑历史</li></a>
+			</ul>
+		</div>
+
+		<div class="col-6 col-s-9">
+			<h1>网站介绍</h1>
+			<p>
+
+				<li>近日，一位国内小哥创建了一个网站，究竟发生了什么呢？来和小编一起来康康吧。welcome！这是TXC团队的主页，由铅笔猫和小柴制作！其实 99.114514%
+					的代码都是铅笔猫写的，小柴偶尔来这里康康。<s>（其实99.114514%这个数字一直在增大）</s>这个网站做一些TXC团队的火柴人漫画图片、视频下载、自制游戏(^o^)且不定时更新。<br><br></li>
+				<li>官方邮箱：oldcatmiku@qq.com 或 chenzicongok@foxmail.com（基本每天看一次邮件）<br><br></li>
+				<li>
+					捐赠感谢栏：<p style="text-align: center;">
+					寄吧　：5元<br>
+					王阿姨：5元<br>
+					胡憨批：3元<br>
+					侯玉达：1元<br>
+					猴靠您：1元<br>
+					小宇子：1元<br>
+					张钧翔：1元<br>
+					罗奶奶：1元<br>
+					小陈　：1元<br>
+					</p>感谢所有为本网站捐赠的好盆友，能使我们的网站更好运作！（比如服务器的会员费）。<br><br></li>
+				<li>特别鸣谢：RTH站长、w3school、暮迟、七完小138班公测的同学们（排名不分先后）</li><br>
+				<li>
+					网站里程碑：
+					<br>2020/4/17网站建立
+					<br>2020/5/8网站大幅度修改
+					<br>2020/12/1网站内容基本完成
+					<br>2021/7/14网站首页大幅度修改
+					<br>2021/8/16使用新的域名（txc233.cn）
+					<br>2021/8/23所有页面变成响应式网站，适配移动、平板端
+					<br>2021/10/24网站被必应收录
+					<br>2022/1/2与BNPsoft合作</li>
+				<li><span id="htmer_time" style="color:#2b00ff"></span></li>
+				<script type="text/javascript" src="js/onlyhome.js"></script>
+<br><br></p>
+		</div>
+
+
+<div class="col-3 col-s-12">
+	<div class="aside">
+		<h2>关于</h2>
+		<p>
+			<div class="text">
+				这是最新的更新，现在已经注册了独立域名（txc233.cn）请记住本域名，不要再访问以前的网站。<br><strong style="color: red;" >我已经注册了爱发电，赞助一下，是我网站唯一的收入来源！赞助链接：<a href="https://afdian.net/@txc233_cn"target="_blank">https://afdian.net/@txc233_cn</a></strong><small><br>或者扫描二维码：<br><img src="https://txc233.cn/pictures/bg.png"><br>声明：本网站除了以上赞助方法没有其他渠道！也没有设立任何QQ群！</small>
+				<p><button style="text-decoration:none" target="_blank" onclick="myFunction()">《铅笔猫的史诗级大冒险》<br>游戏下载</button>
+				</p>
+				<h2>合作伙伴</h2>
+				<a href="https://vasebit.com/" target="_blank">
+				<img height="100%" width="100%" src="pictures/vasebit.png"></a><strong>
+				<?php
+				// $ads = json_decode(file_get_contents("https://api.bnpo.xyz/ads/index.php"));
+				// echo $ads;
+				// ?>
+</strong>
+			</div>
+		</p>
+		<h2>帮助</h2>
+		<div class="text">
+			<p><b>如果网站出现“429”、“超出访问频率限制”、“刷新”等字样，点刷新按钮即可。</b></p>
+			<p><br>如果你在浏览网页的途中有什么问题（比如图片显示问题、手机适配问题、字打错）都可以向我报告，获得一些帮助。</p>
+		</div>
+		<h2>动态</h2><iframe src="/后台/news.html" seamless="seamless" height="200px" width="100%" scrolling="auto"
+			frameborder="1" style="overflow-x:hidden"></iframe>
+		<h2>友情链接</h2>
+		<ul>
+			<li><a href="https://vasebit.com" target="_blank">Vasebit</a></li>
+			<li><a href="https://xiaochai.txc233.cn" target="_blank">小柴（白铃）的网站</a></li>
+			<li><a href="https://txcxiaochai.666forum.com" target="_blank">小柴的论坛</a></li>
+			<li><a href="https://oldcat.666forum.com" target="_blank">老猫的论坛</a></li>
+		</ul>
+	</div>
+</div> 
+
+
+	</div>
+
+	<div class="footer">
+		<p class="text" style="text-align: center;">本站由 <a href="https://host.retiehe.com/"target="_blank" style="color: black">热铁盒网页托管</a> 作为服务器，无需备案。<br>网站内容版权归于TXC团队成员，部分使用的字体版权归方正字体公司和其他公司。网站图标属于小柴对于手鼓猫的二次创作（版权共有）。转载请注明网址。<br><a href="https://icp.gov.moe/?keyword=20219964" target="_blank">萌ICP备20219964号</a></p>
+	</div>
+
+</body>
+
+</html>
