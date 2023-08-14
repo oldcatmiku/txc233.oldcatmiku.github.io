@@ -4,6 +4,21 @@
 	margin: 0;
 }
 
+@media screen and (max-width: 768px) {
+ .qaa{
+	font-size: large;
+	margin-left: 2%;
+	margin-bottom: 200px;
+	line-height: 1.5;
+	}}
+	@media screen and (max-width: 5000px) {
+		.qaa{
+		   font-size: large;
+		   margin-left: 20%;
+		   margin-bottom: 200px;
+		   line-height: 1.5;
+		   }}
+
 img {
 	border: none;
 }
