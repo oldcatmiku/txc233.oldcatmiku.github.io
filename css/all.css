@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+}
+body{
+	background: url(https://txc233.cn/pictures/%E7%95%8C%E9%9D%A223.png);
+	-moz-background-size: cover; 
+	-ms-background-size: cover;
+	-webkit-background-size: cover;
+	background-position: center;	
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment: fixed; 
+}
+h1 {
+    font-family:等线;
+    text-align: center;
+    margin-top: 2% 
+}
+.text,li {
+    font-family:等线;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 5px 
+}
+marquee {
+    font-family:等线;
+    margin-left: 4%;
+    height:8%;
+    width:92%;
+}
+.time {
+    font-family:等线;
+    margin-left: 20%;
+    text-align: right;
+}
+.mao {
+    margin-left: 17%;
+    margin-right: 21%;
+    background-color: rgba(255,255,255,.6);
+}
+.photo {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.heimu {
+    background-color: rgba(0,0,0,1);
+    width: 200px;
+    height: 200px;
+}
+.heimu:hover {
+    color: rgba(255,255,255,.9);
+    width: 200px;
+    height: 200px;
+}
+img.si{
+	width: 17px;
+	height: 17px;
+}
+@media screen and (max-width: 900px){
+    .mao {
+        margin-left: 0.0001%;
+        margin-right: 0.0001%;
+        background-color: rgba(255,255,255,.88);
+    }
+    body {
+        background: url(https://txc233.cn/pictures/%E7%95%8C%E9%9D%A224.png);
+        -moz-background-size: cover;
+        -ms-background-size: cover;
+        -webkit-background-size: cover;
+        background-position: center;
+        background-size: cover;
+        background-repeat:no-repeat;
+        background-attachment: fixed;
+    }
+    .text {
+        font-family:等线;
+        margin-left: 4%;
+        margin-right: 4%;
+        margin-top: 5px;
+        font-size:0.88rem;
+    }
+}
